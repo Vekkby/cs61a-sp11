@@ -15,3 +15,6 @@ Homepage: http://wla.berkeley.edu/~cs61a/sp11/
 Homework solutions:
  - sicp wiki: http://sicp.org.ua/sicp/
  - Solutions from summer 2011 (same homework and the old ones were not published): http://wla.berkeley.edu/~cs61a/su11/solutions/
+
+Video:
+ - https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
